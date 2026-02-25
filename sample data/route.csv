@@ -1,0 +1,17 @@
+route_id,source,destination,distance_km
+R01,Central,Airport,25
+R02,North,Central,15
+R03,East,West,
+R03,East,West,18
+R04,South,Central,-12
+R05,,North,20
+R06,West,Airport,30
+R07,Central,North,22
+R08,South,Airport,28
+R09,East,Central,
+R10,West,South,35
+R11,,East,18
+R12,North,West,-5
+R13,Airport,Central,25
+R14,South,East,30
+R15,West,North,

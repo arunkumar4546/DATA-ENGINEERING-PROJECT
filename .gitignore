@@ -1,0 +1,6 @@
+*.parquet
+*.delta
+*.log
+__pycache__/
+.dbfs/
+.DS_Store
