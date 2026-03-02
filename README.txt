@@ -89,4 +89,4 @@ SQL queries are available in the `sql/` folder.
 
 bronze/   → Bronze ingestion scripts
 silver/   → Data cleaning and transformation
-gold/     → Dimension and fac
+gold/     → Dimension and fact
